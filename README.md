@@ -5,6 +5,6 @@ Repositório criado para hospedar meu script e código da minha primeira calcula
 #Instruções de como usar meu script no linux
 
 
--Para executar o script use o comando ./script_da_minha_calculadora 
+-Para executar o script use o comando ./meu_primeiro_script.sh
 
 (Caso aparecer a mensagem 'Permission Denied' quando tentar executar o script, será necessário executar o script como super usuário, adicionando 'sudo' antes do comando)
